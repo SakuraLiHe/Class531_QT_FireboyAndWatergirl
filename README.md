@@ -1,0 +1,2 @@
+# Class531_QT_FireboyAndWatergirl
+我们在这个项目中通过Qt复刻了经典的森林冰火人小游戏
